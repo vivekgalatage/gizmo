@@ -1,0 +1,16 @@
+{
+  "name": "@gizmo/codezen",
+  "version": "1.0.0",
+  "description": "TypeScript based code parser and generator",
+  "repository": "https://github.com/vivekgalatage/gizmo-codezen",
+  "main": "index.js",
+  "scripts": {},
+  "author": "Vivek Galatage",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^4.1.3"
+  },
+  "dependencies": {
+    "ts-morph": "^9.1.0"
+  }
+}
